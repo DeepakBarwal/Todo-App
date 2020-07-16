@@ -1,1 +1,1 @@
-# Todo-App
+# Todo-App in Vanilla JS
